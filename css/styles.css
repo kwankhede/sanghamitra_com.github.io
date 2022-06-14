@@ -1,0 +1,50 @@
+.jumbotron-index{
+    background-image: url('../img/index/banner.jpeg');
+    height: 600px;
+    background-size: cover;
+}
+
+.jumbotron-index h1{
+    padding-top: 10%;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 400;
+}
+
+.jumbotron-index h4{
+    font-family: 'Montserrat',sans-serif;
+    
+}
+
+#index_body_2{
+
+    border: 0;
+    font-size: 100%;
+    font-style: "Roboto Slab";
+    font-weight: "Roboto Slab";
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+  
+}
+
+
+footer{
+    background-color:lightgrey;
+    margin-left: 0.05 rem;
+
+}
+
+#implinks a{
+   
+    text-align: left;
+    color: #d00d0d;
+  }
+
+  #links a{
+   
+    text-align: left;
+    color: #d00d0d;
+   
+
+  }
